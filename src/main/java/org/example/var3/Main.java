@@ -10,7 +10,6 @@ public class Main {
                 "Kendrick", "Perkins",
                 "Hal", "Perkins"
         );
-
         System.out.println(isUnique(map));
     }
 
